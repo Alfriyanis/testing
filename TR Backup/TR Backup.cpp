@@ -26,27 +26,6 @@ void object(void)
     else
         glClear(GL_COLOR_BUFFER_BIT);
 
-    glColor3f(1.2, 1.2, 1.2);
-    glBegin(GL_TRIANGLES);
-    glVertex3f(-20.0, 0.0, -20.0);
-    glVertex3f(20.0, 0.0, -20.0);
-    glVertex3f(0.0, 30.0, 0.0);
-    glEnd();
-
-    glColor3f(0.6, 0.6, 0.6);
-    glBegin(GL_TRIANGLES);
-    glVertex3f(-20.0, 0.0, -20.0);
-    glVertex3f(-20.0, 0.0, 20.0);
-    glVertex3f(0.0, 30.0, 0.0);
-    glEnd();
-
-    glColor3f(1.2, 0.2, 0.2);
-    glBegin(GL_TRIANGLES);
-    glVertex3f(-20.0, 0.0, 20.0);
-    glVertex3f(20.0, 0.0, 20.0);
-    glVertex3f(0.0, 30.0, 0.0);
-    glEnd();
-
     glColor3f(1.6, 0.6, 1.6);
     glBegin(GL_TRIANGLES);
     glVertex3f(20.0, 0.0, -20.0);
