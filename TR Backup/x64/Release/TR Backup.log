@@ -1,0 +1,11 @@
+﻿  TR Backup.cpp
+C:\Users\Alfriyanis\source\repos\TR Backup\TR Backup\TR Backup.cpp(29,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Alfriyanis\source\repos\TR Backup\TR Backup\TR Backup.cpp(36,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Alfriyanis\source\repos\TR Backup\TR Backup\TR Backup.cpp(43,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Alfriyanis\source\repos\TR Backup\TR Backup\TR Backup.cpp(50,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Generating code
+  0 of 8 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TR Backup.vcxproj -> C:\Users\Alfriyanis\source\repos\TR Backup\x64\Release\TR Backup.exe
